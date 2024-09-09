@@ -29,6 +29,7 @@ public class FinishCounter {
 		}
 	}
 
+	// hello
 	// Has race been won?
 	public boolean isRaceWon() {
 		return !firstAcrossLine;
