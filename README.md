@@ -22,6 +22,6 @@ This program runs a simulation of a Medley Relay Swim race
 ## Credits
 
 - Developed by Michelle Kuttel
-- Edited by [Zakwan khan]
+- Edited by [Zakwan Khan](https://github.com/SteveJava)
 
 ---
